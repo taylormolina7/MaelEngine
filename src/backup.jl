@@ -72,7 +72,4 @@ drawSprite(img, cloud, 150, 200)
 imshow(img)
 
 
-#  type Player
-#  	sprite::Sprite
-#  	velocity::Vector2f
-#  end
+
