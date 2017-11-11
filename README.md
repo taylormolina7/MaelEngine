@@ -10,7 +10,8 @@ So far MaelEngine draws some shapes, lines and sprites (optionally with alpha). 
 
 
 
-#controll 
+# Controll 
 w up s dawn a left d right 
 
-you can add things too
+you can add things too 
+ in this game it is free
